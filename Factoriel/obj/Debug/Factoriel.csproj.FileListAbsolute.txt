@@ -1,0 +1,6 @@
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/bin/Debug/Factoriel.exe
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/bin/Debug/Factoriel.pdb
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/obj/Debug/Factoriel.csproj.AssemblyReference.cache
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/obj/Debug/Factoriel.csproj.CoreCompileInputs.cache
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/obj/Debug/Factoriel.exe
+/Users/hooman619zz/Desktop/Factoriel/Factoriel/Factoriel/obj/Debug/Factoriel.pdb
